@@ -7,4 +7,4 @@ arr.map((item) => {console.log(item)})
 
 // Filter function
 
-arr.filter(x => x%2 === 0)
+console.log(arr.filter(x => x%2 === 0))
