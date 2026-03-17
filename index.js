@@ -10,3 +10,8 @@ console.log(arr.filter(x => x%2 === 0))
 
 // Reduce
 console.log(arr.reduce((sum, x)=>sum+x, 0))
+
+// ForEach
+arr.forEach(element => {
+  console.log(element)
+});
